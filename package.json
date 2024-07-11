@@ -31,10 +31,10 @@
   "author": "georgestephanis",
   "license": "GPL-2.0-or-later",
   "dependencies": {
+    "@wordpress/env": "^10.3.0",
     "qrcode-generator": "^1.4.4"
   },
   "devDependencies": {
-    "@wordpress/env": "^5.4.0",
     "@wordpress/eslint-plugin": "^13.3.0",
     "@wordpress/scripts": "^27.7.0",
     "grunt": "^1.5.3",
